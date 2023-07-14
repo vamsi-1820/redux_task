@@ -1,0 +1,9 @@
+.placed{
+    background-color: green;
+    text-align: center;
+    margin-top: 200px;
+    padding: 50px;
+    font-size: x-large;
+    font-style: italic;
+    color: white;
+}

@@ -1,0 +1,57 @@
+
+.fullbox{
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: -50px;
+    grid-template-columns: repeat(2,250px);
+    margin-top:1px;
+    margin-left: -200px;  
+
+}
+
+.half2{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2,300px);
+}
+.half25{
+    margin-top: 65px;
+    color: rgb(46, 47, 48);
+}
+.half2 button{
+    width: 5cm;
+    margin-left: 80px;
+    background-color: rgb(91, 87, 87);
+    color: white;
+    border: none;
+    border-radius:5px ;
+    font-weight: bold;
+    color:white;
+}
+.added{
+    width: 5cm;
+    margin-left: 80px;
+    background-color: green;
+    color:black;
+    border: none;
+    border-radius:5px ;
+    font-weight: bold;
+    
+}
+.disimage{
+    height: 360px;
+    width: 200px;
+}
+.half1 img{
+    width: 6cm;
+}
+.quantity{
+    font-weight: bold;
+    border-width: 3px;
+    width: 2cm
+}
+button{
+    height: 1cm;
+}
